@@ -1,9 +1,7 @@
-<!DOCTYPE html>
 
 <html>
 <head>
-  <meta http-equiv="CONTENT-TYPE" content="text/html"  charset=UTF-8">
-  <link href="style_site.css" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
   <title>test site</title>
 </head>
 <body>
