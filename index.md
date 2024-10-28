@@ -9,7 +9,7 @@
  
   <nav>
     <ul>
-      <li><a href="CodeLaguageStyle.css">code languages</a></li>
+      <li><a href="CodeLaguageStyle.html">code languages</a></li>
       <li><a href="form.html">form for problemset</a></li>
       <li><a href="contact.html">contact</a></li>
     </ul>
