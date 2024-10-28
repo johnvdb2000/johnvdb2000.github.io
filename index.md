@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html"  charset=UTF-8">
   <link href="style_site.css" rel="stylesheet">
-  <title>Code-helper</title>
+  <title>test site</title>
 </head>
 <body>
   <h1>Welcome to my website that is not finished yet</h1>
